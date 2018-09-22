@@ -24,7 +24,7 @@ Exemplo:
 
 `http://35.199.65.245/?token=88c4f286bfa68445eb170e6d159b35f74e98847b&title=Lavadora%20de%20Roupas%20Samsung%20WF106U4SA%20Branca%20com%20Display%20Digital,%20Eco%20Bubble%20e%20Programas%20de%20Lavagem%20-%2010,1Kg%27`
 
-Busca de detalhes da oferta por sku + retailer:
+## Busca de detalhes da oferta por sku + retailer:
 
 `http://35.199.65.245/?token=<token>&retailer=<retailer>&sku=<sku>&source=retailers`
 
