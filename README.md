@@ -13,8 +13,8 @@ Desenvolver uma SPA que preencha os seguintes requisitos:
  
  ## API para uso:
  
-	URL Base: `http://35.199.65.245/`
-	Token: 88c4f286bfa68445eb170e6d159b35f74e98847b
+URL Base: `http://35.199.65.245/`
+Token: 88c4f286bfa68445eb170e6d159b35f74e98847b
   
 ## Busca de oferta por título:
 
