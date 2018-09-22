@@ -45,4 +45,14 @@ Foi utilizado um minicurso de [Angular](https://coursetro.com/posts/code/154/Ang
 |-------------|------|
 |npm          |3.5.2 |
 |nodejs       |10.10.0|
-|angular-cli  |  |
+|angular-cli  |6.2.3  |
+### Sobre Angular-CLI
+|Pacote             |         Versão|
+|--------------------|----------------|
+|@angular-devkit/architect    |0.8.3|
+|@angular-devkit/core         |0.8.3|
+|@angular-devkit/schematics   |0.8.3|
+|@schematics/angular          |0.8.3|
+|@schematics/update           |0.8.3|
+|rxjs                         |6.2.2|
+|typescript                   |2.9.2|
