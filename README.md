@@ -32,3 +32,6 @@ Exemplo:
 Exemplo:
 
 `http://35.199.65.245/getproduct/?token=88c4f286bfa68445eb170e6d159b35f74e98847b&source=retailers&retailer=casasbahia&sku=1866351`
+
+## Recursos:
+Foi utilizado um minicurso de [Angular](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course) para aderir aos conhecimentos prévios de html e javascrip
