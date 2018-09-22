@@ -33,11 +33,6 @@ Exemplo:
 
 `http://35.199.65.245/getproduct/?token=88c4f286bfa68445eb170e6d159b35f74e98847b&source=retailers&retailer=casasbahia&sku=1866351`
 
-## Para utilizar a aplicação:
-Para utilizar no modo de desenvolvimento (única forma atualmente) é necessário dar o seguinte comando (dentro da pasta do projeto):
-
-```ng serve -o ```
-
 ## Recursos:
 Foi utilizado um minicurso de [Angular](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course) para aderir aos conhecimentos prévios de html e javascrip
 
@@ -45,14 +40,5 @@ Foi utilizado um minicurso de [Angular](https://coursetro.com/posts/code/154/Ang
 |-------------|------|
 |npm          |3.5.2 |
 |nodejs       |10.10.0|
-|angular-cli  |6.2.3  |
-### Sobre Angular-CLI
-|Pacote             |         Versão|
-|--------------------|----------------|
-|@angular-devkit/architect    |0.8.3|
-|@angular-devkit/core         |0.8.3|
-|@angular-devkit/schematics   |0.8.3|
-|@schematics/angular          |0.8.3|
-|@schematics/update           |0.8.3|
-|rxjs                         |6.2.2|
-|typescript                   |2.9.2|
+|react        |6.2.3  |
+
