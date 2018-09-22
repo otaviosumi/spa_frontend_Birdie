@@ -35,3 +35,7 @@ Exemplo:
 
 ## Recursos:
 Foi utilizado um minicurso de [Angular](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course) para aderir aos conhecimentos prévios de html e javascrip
+
+|Ferramenta   |Versão|
+|-------------|------|
+|npm          |3.5.2 |
