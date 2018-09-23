@@ -33,7 +33,8 @@ Exemplo:
 
 `http://35.199.65.245/getproduct/?token=88c4f286bfa68445eb170e6d159b35f74e98847b&source=retailers&retailer=casasbahia&sku=1866351`
 
-## Recursos:
+
+## Recursos utilizados:
 Foi utilizado um minicurso de [Angular](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course) para aderir aos conhecimentos prévios de html e javascrip
 
 |Ferramenta   |Versão|
@@ -41,4 +42,5 @@ Foi utilizado um minicurso de [Angular](https://coursetro.com/posts/code/154/Ang
 |npm          |3.5.2 |
 |nodejs       |10.10.0|
 |react        |6.2.3  |
+
 
