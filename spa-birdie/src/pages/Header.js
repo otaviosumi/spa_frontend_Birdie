@@ -15,9 +15,9 @@ export default class Header extends React.Component {
   render() {
     return (
       <div>
-      	<Title title={this.props.title}/>
-      	<input onChange={this.handleChange.bind(this)}/>
-      	<button	onClick={this.buttonOnClick.bind(this)}> Buscar por título</button>
+      	<Title />
+      	<input onChange={this.handleChange.bind(this)} placeholder="título do produto"/>
+      	<button	onClick={this.buttonOnClick.bind(this)}> Buscar</button>
       </div>
     );
   }

@@ -1,13 +1,13 @@
 import React from "react";
-import axios from 'axios';
+import Header from "./Header";
 import { Link } from 'react-router-dom';
 
 
-export default class Layout extends React.Component {
+export default class ByTitle extends React.Component {
 	constructor(){
 		super();
 		this.state = {
-			title: "Bem vindo", 
+			title: "Digite o título abaixo", 
 			searchContent: "", 
 			fixedUrl: "http://35.199.65.245/?token=88c4f286bfa68445eb170e6d159b35f74e98847b",
 			data: []
@@ -39,13 +39,19 @@ export default class Layout extends React.Component {
 
 	render() {
 	    return (
-	      <div>
-	      	<h1>Escolha o tipo de pesquisa</h1>
-	      	<Link to="/by-title"> <button>Buscar por título</button> </Link>
-	      	<Link to="/by-sku" > <button> Buscar por sku + retailer </button> </Link>
-	      	
-	      </div>
-
+	    	<div>
+	    		<div>
+			      	<h1>Escolha o tipo de pesquisa</h1>
+			      	<Link to="/by-title"> <button>Buscar por título</button> </Link>
+			      	<Link to="/by-sku"> <button> Buscar por sku + retailer </button> </Link>
+			      	
+			     </div>
+		      	<Header 
+		      		changeSearchContent={this.changeSearchContent.bind(this)} 
+		      		searchByTitle={this.searchByTitle.bind(this)} 
+		      		title={this.state.title}/>
+		      	<div><pre>{JSON.stringify(this.state.data, null, 2) }</pre></div>
+		    </div>
 	    );
  	}
 }
