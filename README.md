@@ -11,7 +11,17 @@ Desenvolver uma SPA que preencha os seguintes requisitos:
   * Fotos
   * Outras especificações
  
- ## API para uso:
+ ## Como rodar o npm:
+ 
+ Navege até a pasta chamada spa-birdie dentro da pasta do projeto:
+ 
+ ```cd spa-birdie```
+ 
+ Insira o comando:
+ 
+ ```npm start```
+ 
+ ## API utilizada:
  
 URL Base: `http://35.199.65.245/`
 
