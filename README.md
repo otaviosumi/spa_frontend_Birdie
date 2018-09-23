@@ -35,12 +35,13 @@ Exemplo:
 
 
 ## Recursos utilizados:
-Foi utilizado um minicurso de [Angular](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course) para aderir aos conhecimentos prévios de html e javascrip
+Foi utilizado um minicurso de [React](https://www.youtube.com/watch?v=MhkGQAoc7bc) para aderir aos conhecimentos prévios de html e javascrip
 
 |Ferramenta   |Versão|
 |-------------|------|
 |npm          |3.5.2 |
 |nodejs       |10.10.0|
 |react        |6.2.3  |
+
 
 
